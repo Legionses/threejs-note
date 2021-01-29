@@ -34,7 +34,7 @@
 .noteTextModal{
     position: absolute;
     width: 25%;
-    height: 20%;
+    height: 25%;
     left: calc(50% - 12.5%);
     top: 30%;
     background: white;
